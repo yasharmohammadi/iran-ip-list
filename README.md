@@ -1,2 +1,2 @@
 # iran-ip-list
-IP Address Ranges For Iran
+How to IRANAccess (IR) subnets / ranges and a complete list of IP address.
